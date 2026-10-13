@@ -1,4 +1,4 @@
-<img width="633" height="981" alt="image" src="https://github.com/user-attachments/assets/58a65c08-cfff-45ef-a8d9-89346d090f89" /><img width="633" height="981" alt="image" src="https://github.com/user-attachments/assets/6fc0f4a3-1b21-499c-97a6-7303f0487d33" />Гайд на всё
+Гайд на всё
 
 ## Арч линукс
 
@@ -94,6 +94,6 @@ Terminal=false
 <br>`genfstab -U /mnt >> /mnt/etc/fstab`.
 Команда автоматически найдет все наши подключенные разделы (EFI, SWAP и корень), найдет их уникальные ID-номера (UUID) и запишет всю эту информацию в системный файл настроек "fstab".
 
-### Вход в новую систему
+### 17. Вход в новую систему
 Пишем команду для захода в новую систему: `arch-chroot /mnt`
 `
