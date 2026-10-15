@@ -129,3 +129,6 @@ Terminal=false
 
 ### 28. Включаем sudo 
 `EDITOR=nano visudo`
+
+### 29. Установка пакетов GRUB
+`pacman -S grub efibootmgr os-prober`
