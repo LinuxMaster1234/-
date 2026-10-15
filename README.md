@@ -153,3 +153,6 @@ Terminal=false
 
 ### 36. Логинимся в систему
 `archuser`
+
+### 37. Обновляем всю систему
+`sudo pacman -Syu`
