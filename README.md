@@ -111,3 +111,6 @@ Terminal=false
 
 ### 22. Открываем файл
 `nano /etc/locale.conf`
+
+### 23. Устанавливаем имя хоста
+`nano /etc/hostname`
