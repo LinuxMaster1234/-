@@ -126,3 +126,6 @@ Terminal=false
 
 ### 27. Задаём пользовательский пароль
 `passwd archuser`
+
+### 28. Включаем sudo 
+`EDITOR=nano visudo`
