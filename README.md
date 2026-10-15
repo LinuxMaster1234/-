@@ -168,3 +168,6 @@ Terminal=false
 
 ### 41. Устанавливаем PipeWire Audio
 `sudo pacman -S pipewire pipewire-pulse wireplumber`
+
+### 42. Устанавливаем AUR
+`git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si`
