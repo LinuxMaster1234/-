@@ -162,3 +162,6 @@ Terminal=false
 
 ### 39. Устанавливаем графическое окружение GNOME
 `sudo pacman -S gnome gnome-extra gdm`
+
+### 40. Включаем GNOME в автозагрузку
+`sudo systemctl enable gdm`
