@@ -135,3 +135,6 @@ Terminal=false
 
 ### 30. Установка GRUB на EFI раздел
 `grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB`
+
+### 31. Генерируем конфигурационный файл GRUB
+`grub-mkconfig -o /boot/grub/grub.cfg`
