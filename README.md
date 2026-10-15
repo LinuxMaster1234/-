@@ -138,3 +138,6 @@ Terminal=false
 
 ### 31. Генерируем конфигурационный файл GRUB
 `grub-mkconfig -o /boot/grub/grub.cfg`
+
+### 32. Включаем NetworkManager в загрузку
+`systemctl enable NetworkManager`
