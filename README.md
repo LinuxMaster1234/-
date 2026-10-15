@@ -159,3 +159,6 @@ Terminal=false
 
 ### 38. Устанавливаем необходимые инструменты для разработчика
 `sudo pacman -S git base-devel wget curl fastfetch`
+
+### 39. Устанавливаем графическое окружение GNOME
+`sudo pacman -S gnome gnome-extra gdm`
