@@ -123,3 +123,6 @@ Terminal=false
 
 ### 26. Создаем пользовательский аккаунт
 `useradd -m -G wheel -s /bin/bash archuser`
+
+### 27. Задаём пользовательский пароль
+`passwd archuser`
