@@ -141,3 +141,6 @@ Terminal=false
 
 ### 32. Включаем NetworkManager в загрузку
 `systemctl enable NetworkManager`
+
+### 33. Выходим из chroot окружения
+`exit`
