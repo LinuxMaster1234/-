@@ -132,3 +132,6 @@ Terminal=false
 
 ### 29. Установка пакетов GRUB
 `pacman -S grub efibootmgr os-prober`
+
+### 30. Установка GRUB на EFI раздел
+`grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB`
