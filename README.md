@@ -120,3 +120,6 @@ Terminal=false
 
 ### 25. Устанавливаем пароль для рут пользователя
 `passwd`
+
+### 26. Создаем пользовательский аккаунт
+`useradd -m -G wheel -s /bin/bash archuser`
