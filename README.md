@@ -156,3 +156,6 @@ Terminal=false
 
 ### 37. Обновляем всю систему
 `sudo pacman -Syu`
+
+### 38. Устанавливаем необходимые инструменты для разработчика
+`sudo pacman -S git base-devel wget curl fastfetch`
