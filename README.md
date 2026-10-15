@@ -165,3 +165,6 @@ Terminal=false
 
 ### 40. Включаем GNOME в автозагрузку
 `sudo systemctl enable gdm`
+
+### 41. Устанавливаем PipeWire Audio
+`sudo pacman -S pipewire pipewire-pulse wireplumber`
