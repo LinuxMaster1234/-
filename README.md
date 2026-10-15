@@ -171,3 +171,6 @@ Terminal=false
 
 ### 42. Устанавливаем AUR
 `git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si`
+
+### 43. Выводим информацию о системе
+`fastfetch`
